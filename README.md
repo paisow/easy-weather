@@ -1,0 +1,2 @@
+# easy-weather
+study project
